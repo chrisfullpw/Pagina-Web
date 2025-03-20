@@ -19,7 +19,8 @@ Pagina con mas informacion sobre mi y de mis proyectos, (la pagina esta en const
 
 3)Proyectos que tengo en Github y futuros trabajos que se estan realizando.
 
-![image](https://github.com/user-attachments/assets/02fce02a-033b-42eb-921c-fdeb62a20b41)
+
+![Captura de pantalla 2025-03-20 024415](https://github.com/user-attachments/assets/5484853a-eeca-4661-bace-9addbd050d29)
 
 
 4)Opiniones de compañeros de proyecto y jefe de area.
